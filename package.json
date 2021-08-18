@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gengen1988/edge-ngrams.git"
+    "url": "git+https://github.com/sakhtar1979/edge-ngrams.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gengen1988/edge-ngrams/issues"
+    "url": "https://github.com/sakhtar1979/edge-ngrams/issues"
   },
-  "homepage": "https://github.com/gengen1988/edge-ngrams#readme"
+  "homepage": "https://github.com/sakhtar1979/edge-ngrams#readme"
 }
